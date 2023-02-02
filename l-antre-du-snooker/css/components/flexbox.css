@@ -1,0 +1,22 @@
+.flexbox {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.element1 img {
+	width: 300px;
+	height: 225px;
+	border-radius: 15%;
+}
+
+.element2 {
+	width: 550px;
+}
+
+.element3 img {
+		width: 300px;
+	height: 225px;
+	border-radius: 15%;
+}

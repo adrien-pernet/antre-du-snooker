@@ -1,0 +1,24 @@
+.image-deco {
+	margin-top: 75px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.image-deco img {
+	width: 125px;
+	height: 125px;
+	border-radius: 50%;
+	margin-bottom: 50px;
+}
+
+.image-wst {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.image-wst img {
+	width: 400px;
+	height: 150px;
+	border-radius: 20%;
+	margin-bottom: 50px;
+}

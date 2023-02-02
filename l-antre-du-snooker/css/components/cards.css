@@ -1,0 +1,56 @@
+.cards-container {
+	width: 700px;
+	margin: auto;
+	margin-bottom: 100px;
+  align-content: center;
+}
+
+.card {
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 10px 10px 20px 4px rgba(67, 167, 127, 0.3);
+	border-radius: 15px;
+	margin-bottom: 75px;
+}
+
+.card a:hover {
+  opacity: 0.75;
+  color: white;
+}
+
+.card img {
+	width: 150px;
+	border-radius: 8px;
+}
+
+.cards-actus-container {
+	width: 1200px;
+	margin: auto;
+	margin-bottom: 75px;
+  align-content: center;
+}
+
+.card-actus {
+	height: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 10px 10px 20px 4px #DC969F;
+	margin-bottom: 30px;
+	background-color: #390E1A;
+	color: whitesmoke;
+}
+
+.card-actus img {
+	height: 200px;
+	width: 300px;
+}
+
+.card-actus-texte {
+	margin-right: 50px;
+	width: 800px;
+	height: 150px;
+	margin-bottom: 75px;
+}

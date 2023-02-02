@@ -1,0 +1,16 @@
+.topnav a {
+  float: right;
+  text-align: center;
+  padding: 20px 12px;
+  text-decoration: none;
+  color: #B0CFC1;
+  font-family: 'Tahoma', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.topnav a:hover {
+  background-color: #426A59;
+  opacity: 0.6;
+  color: white;
+}
